@@ -1,0 +1,73 @@
+PODS:
+  - BNBBackground (1.17.7):
+    - BNBEffectPlayer (= 1.17.7)
+    - BNBScripting (= 1.17.7)
+    - BNBSdkCore (= 1.17.7)
+  - BNBEffectPlayer (1.17.7)
+  - BNBFaceTracker (1.17.7):
+    - BNBEffectPlayer (= 1.17.7)
+    - BNBScripting (= 1.17.7)
+    - BNBSdkCore (= 1.17.7)
+  - BNBHair (1.17.7):
+    - BNBEffectPlayer (= 1.17.7)
+    - BNBScripting (= 1.17.7)
+    - BNBSdkCore (= 1.17.7)
+  - BNBLips (1.17.7):
+    - BNBEffectPlayer (= 1.17.7)
+    - BNBFaceTracker (= 1.17.7)
+    - BNBScripting (= 1.17.7)
+    - BNBSdkCore (= 1.17.7)
+  - BNBMakeup (1.17.7):
+    - BNBEffectPlayer (= 1.17.7)
+    - BNBFaceTracker (= 1.17.7)
+    - BNBLips (= 1.17.7)
+    - BNBScripting (= 1.17.7)
+    - BNBSdkCore (= 1.17.7)
+    - BNBSkin (= 1.17.7)
+  - BNBScripting (1.17.7)
+  - BNBSdkApi (1.17.7):
+    - BNBSdkCore (= 1.17.7)
+  - BNBSdkCore (1.17.7)
+  - BNBSkin (1.17.7):
+    - BNBEffectPlayer (= 1.17.7)
+    - BNBScripting (= 1.17.7)
+    - BNBSdkCore (= 1.17.7)
+
+DEPENDENCIES:
+  - BNBBackground (= 1.17.7)
+  - BNBEffectPlayer (= 1.17.7)
+  - BNBFaceTracker (= 1.17.7)
+  - BNBHair (= 1.17.7)
+  - BNBMakeup (= 1.17.7)
+  - BNBScripting (= 1.17.7)
+  - BNBSdkApi (= 1.17.7)
+  - BNBSdkCore (= 1.17.7)
+
+SPEC REPOS:
+  https://github.com/sdk-banuba/banuba-sdk-podspecs.git:
+    - BNBBackground
+    - BNBEffectPlayer
+    - BNBFaceTracker
+    - BNBHair
+    - BNBLips
+    - BNBMakeup
+    - BNBScripting
+    - BNBSdkApi
+    - BNBSdkCore
+    - BNBSkin
+
+SPEC CHECKSUMS:
+  BNBBackground: 1a20f411b5bbd59ad754d6cc47fb1486bae7651a
+  BNBEffectPlayer: 1c9ba42c55d31989b82e445d8c1b6b0bf33d5652
+  BNBFaceTracker: dc143f12b1e0c19fda273f6675028a83aae5d5d2
+  BNBHair: 3a7283153ccdb326428a3c32e0f9ff5096ae4b2b
+  BNBLips: 898957ae1e960501a96b3c1b1d71d344797f5e09
+  BNBMakeup: b04c5be9198c8342dad9dc751176c7bb63d91278
+  BNBScripting: 157a37e96ef00f6e2e004e11832e180be60b2828
+  BNBSdkApi: 6e8a2f7eca6bc4f6a2b9c13097792264e1e85df8
+  BNBSdkCore: 97dfc7c28033fad51fff04befa453117a9e9d2f0
+  BNBSkin: 4a1ea3741a257c098d776cbfd6e879e9adbd14ef
+
+PODFILE CHECKSUM: a4f02c7d53ff218c3e7914aeea7814269a50cb21
+
+COCOAPODS: 1.16.2
